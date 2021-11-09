@@ -1,0 +1,11 @@
+footer {
+    padding: 60px 40px;
+    background-color: #EEEEEE;
+    font-family: 'Playfair Display', serif;
+    font-size: 12px;
+}
+
+.credit {
+  font-size: 0.5rem;
+  margin-top: 1%;
+}
